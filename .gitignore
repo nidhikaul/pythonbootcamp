@@ -177,4 +177,5 @@ cython_debug/
 *.zip
 # Support for Project snippet scope
 
+solutions
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
